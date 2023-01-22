@@ -1,0 +1,2 @@
+selenium==4.7.2
+selenium_stealth==1.0.6
